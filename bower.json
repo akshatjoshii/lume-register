@@ -1,0 +1,24 @@
+{
+  "name": "lume",
+  "authors": [
+    "Akshat Joshi <akshat2@gmail.com>"
+  ],
+  "description": "landing page",
+  "main": "index.html",
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+   ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
